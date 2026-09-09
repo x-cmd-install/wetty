@@ -251,4 +251,3 @@ checks:
       - 'Info: SAST configuration detected: CodeQL'
       - 'Warn: 28 commits out of 29 are checked with a SAST tool'
 ---
-{"id":354998933,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOARZHEs4VKNqV","tag_name":"v3.2.0","target_commitish":"main","name":"v3.2.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-16T09:52:40Z","updated_at":"2026-07-16T09:56:07Z","published_at":"2026-07-16T09:56:07Z","assets":[],"body":"# [3.2.0](https://github.com/butlerx/wetty/compare/v3.1.0...v3.2.0) (2026-07-16)\n\n\n### Features\n\n* **client:** sync browser tab title with terminal OSC 0/2 ([#620](https://github.com/butlerx/wetty/issues/620)) ([e1bf4ec](https://github.com/butlerx/wetty/commit/e1bf4ecc3b72022221c0fd6a0fc70afa7c9221e0))\n"}
