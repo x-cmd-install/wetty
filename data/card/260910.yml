@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.2.1"
   latestRelease: "v3.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:35:33Z
+  collectedAt: 2026-09-10T20:38:32Z
 timeline:
   created: 2014-03-29
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 5430
-  watcher: 96
-  fork: 768
+  star: 5429
+  watcher: 95
+  fork: 769
   release: 31
   contributor: 71
   pullRequest: 352
@@ -88,7 +88,7 @@ total:
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/butlerx/wetty
-collectedAt: 2026-09-10T05:35:34Z
+collectedAt: 2026-09-10T20:38:34Z
 loc:
   Yaml:
     code: 5981
