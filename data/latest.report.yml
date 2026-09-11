@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.2.1"
   latestRelease: "v3.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:49:41Z
+  collectedAt: 2026-09-11T19:09:27Z
 timeline:
   created: 2014-03-29
   lastCommit: 2026-09-09
@@ -21,7 +21,7 @@ popularity:
   release: 31
   contributor: 71
   pullRequest: 353
-  issue: 332
+  issue: 333
 language:
   TypeScript: 75470
   JavaScript: 37687
@@ -37,7 +37,7 @@ recent:
     mergedPR: 14
     openPR: 4
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 14
   last60d:
     since: 2026-07-13
@@ -45,7 +45,7 @@ recent:
     mergedPR: 39
     openPR: 6
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 41
   last90d:
     since: 2026-06-13
@@ -53,7 +53,7 @@ recent:
     mergedPR: 50
     openPR: 7
     closedIssue: 1
-    openIssue: 2
+    openIssue: 3
     commit: 58
   last180d:
     since: 2026-03-15
@@ -61,7 +61,7 @@ recent:
     mergedPR: 85
     openPR: 7
     closedIssue: 3
-    openIssue: 3
+    openIssue: 4
     commit: 98
   last360d:
     since: 2025-09-16
@@ -69,7 +69,7 @@ recent:
     mergedPR: 86
     openPR: 8
     closedIssue: 6
-    openIssue: 3
+    openIssue: 4
     commit: 100
   last720d:
     since: 2024-09-21
@@ -77,18 +77,18 @@ recent:
     mergedPR: 90
     openPR: 8
     closedIssue: 9
-    openIssue: 5
+    openIssue: 6
     commit: 104
 total:
   release: 31
   mergedPR: 252
   openPR: 8
   closedIssue: 325
-  openIssue: 7
+  openIssue: 8
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/butlerx/wetty
-collectedAt: 2026-09-11T05:49:43Z
+collectedAt: 2026-09-11T19:09:28Z
 loc:
   Yaml:
     code: 5981
