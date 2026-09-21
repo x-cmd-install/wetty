@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,442 · **Forks**: 769 · **Open issues**: 334 · **Contributors**: 71
+- **Stars**: 5,443 · **Forks**: 769 · **Open issues**: 334 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 4 | 4 | 0 | 2 | 9 |
-| last60d | 2026-07-22 | 1 | 36 | 7 | 0 | 3 | 37 |
-| 90d | 2026-06-22 | 2 | 48 | 8 | 1 | 4 | 50 |
-| last180d | 2026-03-24 | 8 | 86 | 8 | 3 | 5 | 99 |
-| 360d | 2025-09-25 | 8 | 87 | 9 | 6 | 5 | 101 |
-| last720d | 2024-09-30 | 8 | 91 | 9 | 9 | 7 | 105 |
+| 30d | 2026-08-22 | 1 | 4 | 4 | 0 | 2 | 9 |
+| last60d | 2026-07-23 | 1 | 36 | 7 | 0 | 3 | 33 |
+| 90d | 2026-06-23 | 2 | 48 | 8 | 1 | 4 | 48 |
+| last180d | 2026-03-25 | 8 | 86 | 8 | 3 | 5 | 99 |
+| 360d | 2025-09-26 | 8 | 87 | 9 | 6 | 5 | 101 |
+| last720d | 2024-10-01 | 8 | 91 | 9 | 9 | 7 | 105 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:50:01Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:49:46Z._
