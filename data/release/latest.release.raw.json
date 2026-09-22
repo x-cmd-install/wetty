@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/butlerx/wetty/releases/385311987",
-  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/385311987/assets",
-  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/385311987/assets{?name,label}",
-  "html_url": "https://github.com/butlerx/wetty/releases/tag/v3.2.1",
-  "id": 385311987,
+  "url": "https://api.github.com/repos/butlerx/wetty/releases/392826796",
+  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/392826796/assets",
+  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/392826796/assets{?name,label}",
+  "html_url": "https://github.com/butlerx/wetty/releases/tag/v3.2.2",
+  "id": 392826796,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOARZHEs4W92Tz",
-  "tag_name": "v3.2.1",
+  "node_id": "RE_kwDOARZHEs4Xag-s",
+  "tag_name": "v3.2.2",
   "target_commitish": "main",
-  "name": "v3.2.1",
+  "name": "v3.2.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-09T07:37:42Z",
-  "updated_at": "2026-09-09T07:41:27Z",
-  "published_at": "2026-09-09T07:41:27Z",
+  "created_at": "2026-09-21T09:17:27Z",
+  "updated_at": "2026-09-21T09:21:36Z",
+  "published_at": "2026-09-21T09:21:36Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v3.2.1",
-  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v3.2.1",
-  "body": "## [3.2.1](https://github.com/butlerx/wetty/compare/v3.2.0...v3.2.1) (2026-09-09)\n\n\n### Bug Fixes\n\n* validate client resize payload before resizing the PTY ([#685](https://github.com/butlerx/wetty/issues/685)) ([06cc0b7](https://github.com/butlerx/wetty/commit/06cc0b7d5d7c3f5698b2e487d0b8b922459ee0d6))\n"
+  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v3.2.2",
+  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v3.2.2",
+  "body": "## [3.2.2](https://github.com/butlerx/wetty/compare/v3.2.1...v3.2.2) (2026-09-21)\n\n\n### Bug Fixes\n\n* keep the SSH password out of the debug log ([#686](https://github.com/butlerx/wetty/issues/686)) ([e1d5f2a](https://github.com/butlerx/wetty/commit/e1d5f2a974242faa3796f7fc7d91f24fbfc4dc13))\n"
 }
