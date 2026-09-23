@@ -4,7 +4,7 @@
 
 Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
-[![x-cmd/install — wetty Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wetty.svg)](https://x-cmd.com/install/wetty)
+[![x-cmd/install — wetty Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wetty.svg)](https://x-cmd.com/install/wetty)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,444 · **Forks**: 769 · **Open issues**: 334 · **Contributors**: 71
+- **Stars**: 5,446 · **Forks**: 769 · **Open issues**: 334 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 7 | 0 | 0 | 2 | 12 |
-| last60d | 2026-07-24 | 2 | 35 | 4 | 0 | 3 | 36 |
-| 90d | 2026-06-24 | 3 | 51 | 5 | 1 | 3 | 51 |
-| last180d | 2026-03-26 | 9 | 89 | 5 | 3 | 5 | 102 |
-| 360d | 2025-09-27 | 9 | 90 | 6 | 6 | 5 | 104 |
-| last720d | 2024-10-02 | 9 | 94 | 6 | 9 | 7 | 108 |
+| 30d | 2026-08-24 | 2 | 7 | 0 | 0 | 2 | 12 |
+| last60d | 2026-07-25 | 2 | 35 | 4 | 0 | 3 | 36 |
+| 90d | 2026-06-25 | 3 | 51 | 5 | 1 | 3 | 51 |
+| last180d | 2026-03-27 | 9 | 89 | 5 | 3 | 5 | 102 |
+| 360d | 2025-09-28 | 9 | 90 | 6 | 6 | 5 | 104 |
+| last720d | 2024-10-03 | 9 | 94 | 6 | 9 | 7 | 108 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:48:13Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:57:03Z._
