@@ -251,4 +251,3 @@ checks:
       - 'Info: SAST configuration detected: CodeQL'
       - 'Warn: 28 commits out of 29 are checked with a SAST tool'
 ---
-{"id":392826796,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOARZHEs4Xag-s","tag_name":"v3.2.2","target_commitish":"main","name":"v3.2.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-21T09:17:27Z","updated_at":"2026-09-21T09:21:36Z","published_at":"2026-09-21T09:21:36Z","assets":[],"body":"## [3.2.2](https://github.com/butlerx/wetty/compare/v3.2.1...v3.2.2) (2026-09-21)\n\n\n### Bug Fixes\n\n* keep the SSH password out of the debug log ([#686](https://github.com/butlerx/wetty/issues/686)) ([e1d5f2a](https://github.com/butlerx/wetty/commit/e1d5f2a974242faa3796f7fc7d91f24fbfc4dc13))\n"}
