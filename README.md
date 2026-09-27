@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 9 | 0 | 0 | 2 | 14 |
-| last60d | 2026-07-28 | 2 | 37 | 2 | 0 | 3 | 38 |
-| 90d | 2026-06-28 | 3 | 51 | 4 | 1 | 3 | 53 |
-| last180d | 2026-03-30 | 9 | 91 | 4 | 3 | 5 | 104 |
-| 360d | 2025-10-01 | 9 | 92 | 5 | 6 | 5 | 106 |
-| last720d | 2024-10-06 | 9 | 96 | 5 | 9 | 7 | 110 |
+| 30d | 2026-08-28 | 2 | 8 | 0 | 0 | 2 | 8 |
+| last60d | 2026-07-29 | 2 | 37 | 2 | 0 | 3 | 27 |
+| 90d | 2026-06-29 | 3 | 51 | 4 | 1 | 3 | 51 |
+| last180d | 2026-03-31 | 9 | 91 | 4 | 3 | 5 | 104 |
+| 360d | 2025-10-02 | 9 | 92 | 5 | 6 | 5 | 106 |
+| last720d | 2024-10-07 | 9 | 96 | 5 | 9 | 7 | 110 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:34:50Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:56:17Z._
