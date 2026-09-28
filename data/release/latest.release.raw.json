@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/butlerx/wetty/releases/392826796",
-  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/392826796/assets",
-  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/392826796/assets{?name,label}",
-  "html_url": "https://github.com/butlerx/wetty/releases/tag/v3.2.2",
-  "id": 392826796,
+  "url": "https://api.github.com/repos/butlerx/wetty/releases/397595796",
+  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/397595796/assets",
+  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/397595796/assets{?name,label}",
+  "html_url": "https://github.com/butlerx/wetty/releases/tag/v3.3.3",
+  "id": 397595796,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOARZHEs4Xag-s",
-  "tag_name": "v3.2.2",
+  "node_id": "RE_kwDOARZHEs4XstSU",
+  "tag_name": "v3.3.3",
   "target_commitish": "main",
-  "name": "v3.2.2",
+  "name": "v3.3.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-21T09:17:27Z",
-  "updated_at": "2026-09-21T09:21:36Z",
-  "published_at": "2026-09-21T09:21:36Z",
+  "created_at": "2026-09-27T09:57:49Z",
+  "updated_at": "2026-09-27T10:02:27Z",
+  "published_at": "2026-09-27T10:02:27Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v3.2.2",
-  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v3.2.2",
-  "body": "## [3.2.2](https://github.com/butlerx/wetty/compare/v3.2.1...v3.2.2) (2026-09-21)\n\n\n### Bug Fixes\n\n* keep the SSH password out of the debug log ([#686](https://github.com/butlerx/wetty/issues/686)) ([e1d5f2a](https://github.com/butlerx/wetty/commit/e1d5f2a974242faa3796f7fc7d91f24fbfc4dc13))\n"
+  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v3.3.3",
+  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v3.3.3",
+  "body": "## [3.3.3](https://github.com/butlerx/wetty/compare/v3.3.2...v3.3.3) (2026-09-27)\n\n\n### Bug Fixes\n\n* **config:** save the first options change ([4de3db9](https://github.com/butlerx/wetty/commit/4de3db94a0ac076cbb5efe152e8b15bf2fd6a49a))\n"
 }
