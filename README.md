@@ -14,13 +14,13 @@ x install wetty
 
 ## Code insight
 
-Total: **10,202** lines of code across **73** files in the top 5 languages.
+Total: **10,688** lines of code across **78** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 5,981 | 12 | 1,790 | 3 |
-| TypeScript | 2,116 | 294 | 232 | 51 |
-| JavaScript | 1,256 | 11 | 41 | 9 |
+| TypeScript | 2,600 | 319 | 286 | 56 |
+| JavaScript | 1,258 | 11 | 41 | 9 |
 | Sass | 287 | 3 | 28 | 5 |
 | Json | 238 | 0 | 0 | 5 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.2.2` (2026-09-21)
-- **Last commit**: 2026-09-25
+- **Latest**: `v3.3.3` (2026-09-27)
+- **Last commit**: 2026-09-27
 
 ## Popularity
 
-- **Stars**: 5,449 · **Forks**: 768 · **Open issues**: 334 · **Contributors**: 71
+- **Stars**: 5,450 · **Forks**: 768 · **Open issues**: 334 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 258 · **Open PRs**: 5 · **Closed issues**: 325 · **Open issues**: 9 · **Commits**: 627
+- **Releases**: 36 · **Merged PRs**: 259 · **Open PRs**: 4 · **Closed issues**: 327 · **Open issues**: 7 · **Commits**: 632
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 2 | 8 | 0 | 0 | 2 | 8 |
-| last60d | 2026-07-29 | 2 | 37 | 2 | 0 | 3 | 27 |
-| 90d | 2026-06-29 | 3 | 51 | 4 | 1 | 3 | 51 |
-| last180d | 2026-03-31 | 9 | 91 | 4 | 3 | 5 | 104 |
-| 360d | 2025-10-02 | 9 | 92 | 5 | 6 | 5 | 106 |
-| last720d | 2024-10-07 | 9 | 96 | 5 | 9 | 7 | 110 |
+| 30d | 2026-08-29 | 6 | 8 | 0 | 2 | 0 | 13 |
+| last60d | 2026-07-30 | 6 | 38 | 1 | 2 | 1 | 32 |
+| 90d | 2026-06-30 | 7 | 52 | 3 | 3 | 1 | 56 |
+| last180d | 2026-04-01 | 13 | 92 | 3 | 5 | 3 | 109 |
+| 360d | 2025-10-03 | 13 | 93 | 4 | 8 | 3 | 111 |
+| last720d | 2024-10-08 | 13 | 97 | 4 | 11 | 5 | 115 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:56:17Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:08:45Z._
