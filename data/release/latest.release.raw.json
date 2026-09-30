@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/butlerx/wetty/releases/397595796",
-  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/397595796/assets",
-  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/397595796/assets{?name,label}",
-  "html_url": "https://github.com/butlerx/wetty/releases/tag/v3.3.3",
-  "id": 397595796,
+  "url": "https://api.github.com/repos/butlerx/wetty/releases/399043576",
+  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/399043576/assets",
+  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/399043576/assets{?name,label}",
+  "html_url": "https://github.com/butlerx/wetty/releases/tag/v3.3.5",
+  "id": 399043576,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOARZHEs4XstSU",
-  "tag_name": "v3.3.3",
+  "node_id": "RE_kwDOARZHEs4XyOv4",
+  "tag_name": "v3.3.5",
   "target_commitish": "main",
-  "name": "v3.3.3",
+  "name": "v3.3.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-27T09:57:49Z",
-  "updated_at": "2026-09-27T10:02:27Z",
-  "published_at": "2026-09-27T10:02:27Z",
+  "created_at": "2026-09-29T10:33:35Z",
+  "updated_at": "2026-09-29T10:37:28Z",
+  "published_at": "2026-09-29T10:37:28Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v3.3.3",
-  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v3.3.3",
-  "body": "## [3.3.3](https://github.com/butlerx/wetty/compare/v3.3.2...v3.3.3) (2026-09-27)\n\n\n### Bug Fixes\n\n* **config:** save the first options change ([4de3db9](https://github.com/butlerx/wetty/commit/4de3db94a0ac076cbb5efe152e8b15bf2fd6a49a))\n"
+  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v3.3.5",
+  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v3.3.5",
+  "body": "## [3.3.5](https://github.com/butlerx/wetty/compare/v3.3.4...v3.3.5) (2026-09-29)\n\n\n### Bug Fixes\n\n* add allow-missing-origin optional switch ([#696](https://github.com/butlerx/wetty/issues/696)) ([15f2bdb](https://github.com/butlerx/wetty/commit/15f2bdb4e0d1804aca9541ee45861ef242338d9a))\n"
 }
