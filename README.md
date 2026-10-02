@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,451 · **Forks**: 769 · **Open issues**: 335 · **Contributors**: 73
+- **Stars**: 5,452 · **Forks**: 769 · **Open issues**: 335 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 260 · **Open PRs**: 4 · **Closed issues**: 328 · **Open issues**: 7 · **Commits**: 634
+- **Releases**: 38 · **Merged PRs**: 260 · **Open PRs**: 5 · **Closed issues**: 328 · **Open issues**: 7 · **Commits**: 634
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 8 | 9 | 0 | 3 | 0 | 15 |
-| last60d | 2026-08-02 | 8 | 29 | 0 | 3 | 1 | 34 |
-| 90d | 2026-07-03 | 9 | 52 | 3 | 3 | 1 | 58 |
-| last180d | 2026-04-04 | 15 | 93 | 3 | 6 | 3 | 111 |
-| 360d | 2025-10-06 | 15 | 94 | 4 | 9 | 3 | 113 |
-| last720d | 2024-10-11 | 15 | 98 | 4 | 12 | 5 | 117 |
+| 30d | 2026-09-02 | 8 | 9 | 1 | 3 | 0 | 15 |
+| last60d | 2026-08-03 | 8 | 29 | 1 | 3 | 1 | 34 |
+| 90d | 2026-07-04 | 9 | 51 | 3 | 3 | 1 | 58 |
+| last180d | 2026-04-05 | 15 | 93 | 4 | 6 | 3 | 111 |
+| 360d | 2025-10-07 | 15 | 94 | 5 | 9 | 3 | 113 |
+| last720d | 2024-10-12 | 15 | 98 | 5 | 12 | 5 | 117 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:37:10Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:15:07Z._
