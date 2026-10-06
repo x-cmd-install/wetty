@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/butlerx/wetty/releases/399043576",
-  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/399043576/assets",
-  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/399043576/assets{?name,label}",
-  "html_url": "https://github.com/butlerx/wetty/releases/tag/v3.3.5",
-  "id": 399043576,
+  "url": "https://api.github.com/repos/butlerx/wetty/releases/403585102",
+  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/403585102/assets",
+  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/403585102/assets{?name,label}",
+  "html_url": "https://github.com/butlerx/wetty/releases/tag/v4.0.0",
+  "id": 403585102,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,32 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOARZHEs4XyOv4",
-  "tag_name": "v3.3.5",
+  "node_id": "RE_kwDOARZHEs4YDjhO",
+  "tag_name": "v4.0.0",
   "target_commitish": "main",
-  "name": "v3.3.5",
+  "name": "v4.0.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-29T10:33:35Z",
-  "updated_at": "2026-09-29T10:37:28Z",
-  "published_at": "2026-09-29T10:37:28Z",
+  "created_at": "2026-10-05T10:06:08Z",
+  "updated_at": "2026-10-05T10:09:43Z",
+  "published_at": "2026-10-05T10:09:43Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v3.3.5",
-  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v3.3.5",
-  "body": "## [3.3.5](https://github.com/butlerx/wetty/compare/v3.3.4...v3.3.5) (2026-09-29)\n\n\n### Bug Fixes\n\n* add allow-missing-origin optional switch ([#696](https://github.com/butlerx/wetty/issues/696)) ([15f2bdb](https://github.com/butlerx/wetty/commit/15f2bdb4e0d1804aca9541ee45861ef242338d9a))\n"
+  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v4.0.0",
+  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v4.0.0",
+  "body": "# [4.0.0](https://github.com/butlerx/wetty/compare/v3.3.5...v4.0.0) (2026-10-05)\n\n\n* fix(security)!: pin browser origins and bound HTTP metrics ([08e8abd](https://github.com/butlerx/wetty/commit/08e8abdacffccc6ba165abc915d1df8f2753e7a1))\n\n\n### BREAKING CHANGES\n\n* configure at least one trusted origin using --allowed-origin,\nALLOWEDORIGINS, or server.allowedOrigins before starting WeTTY. No localhost\nor request-derived origins are implicitly allowed.\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/butlerx/wetty/releases/403585102/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 1
+  }
 }
