@@ -30,7 +30,7 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 4/9 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,456 · **Forks**: 770 · **Open issues**: 335 · **Contributors**: 73
+- **Stars**: 5,459 · **Forks**: 769 · **Open issues**: 335 · **Contributors**: 73
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 9 | 8 | 0 | 3 | 0 | 15 |
-| last60d | 2026-08-07 | 9 | 24 | 0 | 3 | 0 | 29 |
-| 90d | 2026-07-08 | 10 | 53 | 2 | 3 | 1 | 56 |
-| last180d | 2026-04-09 | 16 | 95 | 3 | 6 | 3 | 113 |
-| 360d | 2025-10-11 | 16 | 96 | 4 | 9 | 3 | 115 |
-| last720d | 2024-10-16 | 16 | 100 | 4 | 12 | 5 | 119 |
+| 30d | 2026-09-07 | 9 | 8 | 0 | 3 | 0 | 15 |
+| last60d | 2026-08-08 | 9 | 24 | 0 | 3 | 0 | 29 |
+| 90d | 2026-07-09 | 10 | 53 | 2 | 3 | 1 | 56 |
+| last180d | 2026-04-10 | 16 | 95 | 3 | 6 | 3 | 113 |
+| 360d | 2025-10-12 | 16 | 96 | 4 | 9 | 3 | 115 |
+| last720d | 2024-10-17 | 16 | 100 | 4 | 12 | 5 | 119 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:06:49Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:38:00Z._
