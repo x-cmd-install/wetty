@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,461 · **Forks**: 766 · **Open issues**: 335 · **Contributors**: 73
+- **Stars**: 5,460 · **Forks**: 767 · **Open issues**: 335 · **Contributors**: 73
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 8 | 7 | 0 | 2 | 0 | 14 |
-| last60d | 2026-08-14 | 9 | 18 | 0 | 3 | 0 | 23 |
-| 90d | 2026-07-15 | 10 | 49 | 2 | 3 | 1 | 51 |
-| last180d | 2026-04-16 | 16 | 95 | 3 | 6 | 3 | 113 |
-| 360d | 2025-10-18 | 16 | 96 | 4 | 9 | 3 | 115 |
-| last720d | 2024-10-23 | 16 | 100 | 4 | 12 | 5 | 119 |
+| 30d | 2026-09-14 | 8 | 7 | 0 | 2 | 0 | 14 |
+| last60d | 2026-08-15 | 9 | 18 | 0 | 3 | 0 | 23 |
+| 90d | 2026-07-16 | 10 | 49 | 2 | 3 | 1 | 51 |
+| last180d | 2026-04-17 | 16 | 95 | 3 | 6 | 3 | 113 |
+| 360d | 2025-10-19 | 16 | 96 | 4 | 9 | 3 | 115 |
+| last720d | 2024-10-24 | 16 | 100 | 4 | 12 | 5 | 119 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:39:13Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:48:55Z._
