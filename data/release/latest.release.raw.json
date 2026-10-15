@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/butlerx/wetty/releases/403585102",
-  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/403585102/assets",
-  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/403585102/assets{?name,label}",
-  "html_url": "https://github.com/butlerx/wetty/releases/tag/v4.0.0",
-  "id": 403585102,
+  "url": "https://api.github.com/repos/butlerx/wetty/releases/412486536",
+  "assets_url": "https://api.github.com/repos/butlerx/wetty/releases/412486536/assets",
+  "upload_url": "https://uploads.github.com/repos/butlerx/wetty/releases/412486536/assets{?name,label}",
+  "html_url": "https://github.com/butlerx/wetty/releases/tag/v4.0.1",
+  "id": 412486536,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOARZHEs4YDjhO",
-  "tag_name": "v4.0.0",
+  "node_id": "RE_kwDOARZHEs4YlguI",
+  "tag_name": "v4.0.1",
   "target_commitish": "main",
-  "name": "v4.0.0",
+  "name": "v4.0.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-05T10:06:08Z",
-  "updated_at": "2026-10-05T10:09:43Z",
-  "published_at": "2026-10-05T10:09:43Z",
+  "created_at": "2026-10-14T08:19:02Z",
+  "updated_at": "2026-10-14T08:22:50Z",
+  "published_at": "2026-10-14T08:22:50Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v4.0.0",
-  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v4.0.0",
-  "body": "# [4.0.0](https://github.com/butlerx/wetty/compare/v3.3.5...v4.0.0) (2026-10-05)\n\n\n* fix(security)!: pin browser origins and bound HTTP metrics ([08e8abd](https://github.com/butlerx/wetty/commit/08e8abdacffccc6ba165abc915d1df8f2753e7a1))\n\n\n### BREAKING CHANGES\n\n* configure at least one trusted origin using --allowed-origin,\nALLOWEDORIGINS, or server.allowedOrigins before starting WeTTY. No localhost\nor request-derived origins are implicitly allowed.\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/butlerx/wetty/releases/403585102/reactions",
-    "total_count": 1,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 1
-  }
+  "tarball_url": "https://api.github.com/repos/butlerx/wetty/tarball/v4.0.1",
+  "zipball_url": "https://api.github.com/repos/butlerx/wetty/zipball/v4.0.1",
+  "body": "## [4.0.1](https://github.com/butlerx/wetty/compare/v4.0.0...v4.0.1) (2026-10-14)\n\n\n### Bug Fixes\n\n* forward binary mouse input to PTY ([#630](https://github.com/butlerx/wetty/issues/630)) ([#699](https://github.com/butlerx/wetty/issues/699)) ([ab1eb68](https://github.com/butlerx/wetty/commit/ab1eb687774a7fa6961bbe83901159ab1eaf7133))\n"
 }
