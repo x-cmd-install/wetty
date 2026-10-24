@@ -14,11 +14,11 @@ x install wetty
 
 ## Code insight
 
-Total: **11,153** lines of code across **82** files in the top 5 languages.
+Total: **11,182** lines of code across **82** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 5,999 | 13 | 1,796 | 3 |
+| Yaml | 6,028 | 13 | 1,810 | 3 |
 | TypeScript | 3,047 | 312 | 319 | 60 |
 | JavaScript | 1,258 | 11 | 41 | 9 |
 | Sass | 287 | 3 | 28 | 5 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.1` (2026-10-14)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 5,472 · **Forks**: 769 · **Open issues**: 335 · **Contributors**: 74
+- **Stars**: 5,473 · **Forks**: 770 · **Open issues**: 335 · **Contributors**: 74
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 267 · **Open PRs**: 9 · **Closed issues**: 329 · **Open issues**: 6 · **Commits**: 642
+- **Releases**: 40 · **Merged PRs**: 272 · **Open PRs**: 4 · **Closed issues**: 329 · **Open issues**: 6 · **Commits**: 647
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 8 | 10 | 5 | 1 | 0 | 17 |
-| last60d | 2026-08-24 | 10 | 17 | 5 | 3 | 0 | 29 |
-| 90d | 2026-07-25 | 10 | 46 | 7 | 3 | 1 | 53 |
-| last180d | 2026-04-26 | 17 | 100 | 8 | 7 | 2 | 119 |
-| 360d | 2025-10-28 | 17 | 101 | 9 | 10 | 2 | 121 |
-| last720d | 2024-11-02 | 17 | 105 | 9 | 13 | 4 | 125 |
+| 30d | 2026-09-24 | 8 | 15 | 0 | 1 | 0 | 22 |
+| last60d | 2026-08-25 | 10 | 22 | 0 | 3 | 0 | 34 |
+| 90d | 2026-07-26 | 10 | 51 | 2 | 3 | 1 | 58 |
+| last180d | 2026-04-27 | 17 | 105 | 3 | 7 | 2 | 124 |
+| 360d | 2025-10-29 | 17 | 106 | 4 | 10 | 2 | 126 |
+| last720d | 2024-11-03 | 17 | 110 | 4 | 13 | 4 | 130 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:37:28Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:24:49Z._
