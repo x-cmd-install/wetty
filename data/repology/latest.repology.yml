@@ -2,8 +2,8 @@
   srcname: wetty
   binname: wetty
   visiblename: wetty
-  version: 4.0.1
-  origversion: 4.0.1-1
+  version: 4.1.0
+  origversion: 4.1.0-1
   status: unique
   summary: Terminal in browser over http/https
   maintainers:
