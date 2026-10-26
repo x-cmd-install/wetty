@@ -14,15 +14,15 @@ x install wetty
 
 ## Code insight
 
-Total: **11,303** lines of code across **87** files in the top 5 languages.
+Total: **17,871** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 6,004 | 13 | 1,804 | 3 |
-| TypeScript | 3,185 | 327 | 333 | 65 |
-| JavaScript | 1,259 | 11 | 41 | 9 |
+| Yaml | 8,423 | 13 | 1,750 | 3 |
+| TypeScript | 7,753 | 284 | 864 | 93 |
+| JavaScript | 783 | 26 | 24 | 4 |
 | Sass | 287 | 3 | 28 | 5 |
-| Json | 234 | 0 | 0 | 5 |
+| Json | 239 | 0 | 0 | 5 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.1.0` (2026-10-24)
-- **Last commit**: 2026-10-24
+- **Latest**: `v4.2.1` (2026-10-25)
+- **Last commit**: 2026-10-25
 
 ## Popularity
 
-- **Stars**: 5,473 · **Forks**: 772 · **Open issues**: 335 · **Contributors**: 74
+- **Stars**: 5,475 · **Forks**: 772 · **Open issues**: 335 · **Contributors**: 74
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 273 · **Open PRs**: 6 · **Closed issues**: 329 · **Open issues**: 6 · **Commits**: 648
+- **Releases**: 43 · **Merged PRs**: 275 · **Open PRs**: 4 · **Closed issues**: 329 · **Open issues**: 6 · **Commits**: 665
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 9 | 14 | 2 | 1 | 0 | 14 |
-| last60d | 2026-08-26 | 11 | 23 | 2 | 3 | 0 | 29 |
-| 90d | 2026-07-27 | 11 | 52 | 4 | 3 | 1 | 48 |
-| last180d | 2026-04-28 | 18 | 106 | 5 | 7 | 1 | 125 |
-| 360d | 2025-10-30 | 18 | 106 | 6 | 10 | 2 | 126 |
-| last720d | 2024-11-04 | 18 | 111 | 6 | 13 | 4 | 131 |
+| 30d | 2026-09-26 | 11 | 16 | 0 | 1 | 0 | 31 |
+| last60d | 2026-08-27 | 13 | 25 | 0 | 3 | 0 | 46 |
+| 90d | 2026-07-28 | 13 | 54 | 1 | 3 | 1 | 65 |
+| last180d | 2026-04-29 | 20 | 108 | 3 | 7 | 1 | 142 |
+| 360d | 2025-10-31 | 20 | 108 | 4 | 10 | 2 | 143 |
+| last720d | 2024-11-05 | 20 | 113 | 4 | 13 | 4 | 148 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:25:07Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:22:34Z._
