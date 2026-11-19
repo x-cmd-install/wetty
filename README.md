@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/19 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,487 · **Forks**: 770 · **Open issues**: 335 · **Contributors**: 74
+- **Stars**: 5,487 · **Forks**: 769 · **Open issues**: 335 · **Contributors**: 74
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 27 | 1 | 0 | 0 | 42 |
-| last60d | 2026-09-18 | 12 | 37 | 1 | 1 | 0 | 59 |
-| 90d | 2026-08-19 | 13 | 49 | 1 | 3 | 0 | 71 |
-| last180d | 2026-05-21 | 20 | 127 | 2 | 7 | 1 | 161 |
-| 360d | 2025-11-22 | 20 | 127 | 3 | 9 | 2 | 162 |
-| last720d | 2024-11-27 | 20 | 132 | 3 | 13 | 4 | 167 |
+| 30d | 2026-10-20 | 3 | 27 | 1 | 0 | 0 | 42 |
+| last60d | 2026-09-20 | 12 | 37 | 1 | 1 | 0 | 59 |
+| 90d | 2026-08-21 | 13 | 44 | 1 | 3 | 0 | 71 |
+| last180d | 2026-05-23 | 20 | 127 | 2 | 7 | 1 | 161 |
+| 360d | 2025-11-24 | 20 | 127 | 3 | 9 | 2 | 162 |
+| last720d | 2024-11-29 | 20 | 132 | 3 | 13 | 4 | 167 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:26:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:54:49Z._
