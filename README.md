@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,486 · **Forks**: 769 · **Open issues**: 335 · **Contributors**: 74
+- **Stars**: 5,488 · **Forks**: 769 · **Open issues**: 335 · **Contributors**: 74
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 25 | 1 | 0 | 0 | 25 |
-| last60d | 2026-09-24 | 11 | 43 | 1 | 1 | 0 | 56 |
-| 90d | 2026-08-25 | 13 | 50 | 1 | 3 | 0 | 77 |
-| last180d | 2026-05-27 | 17 | 118 | 2 | 5 | 1 | 133 |
-| 360d | 2025-11-28 | 20 | 133 | 3 | 9 | 2 | 168 |
-| last720d | 2024-12-03 | 20 | 138 | 3 | 13 | 4 | 173 |
+| 30d | 2026-10-25 | 2 | 25 | 1 | 0 | 0 | 25 |
+| last60d | 2026-09-25 | 11 | 41 | 1 | 1 | 0 | 56 |
+| 90d | 2026-08-26 | 13 | 50 | 1 | 3 | 0 | 77 |
+| last180d | 2026-05-28 | 15 | 118 | 2 | 5 | 1 | 133 |
+| 360d | 2025-11-29 | 20 | 133 | 3 | 9 | 2 | 168 |
+| last720d | 2024-12-04 | 20 | 138 | 3 | 13 | 4 | 173 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for wetty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:40:08Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:10:56Z._
